@@ -4,7 +4,7 @@ A machine learning project for classifying 60 cat breeds using deep learning and
 
 ## 🔗 Quick Links
 
-- **Presentation**: [BISCUTE-presentation](https://github.com/ferdifdi/BISCUTE-presentation.pdf)
+- **Presentation**: [BISCUTE-presentation](https://github.com/ferdifdi/cat_breeds_classifier_extended_breeds/blob/main/BISCUTE-presentation.pdf)
 - **Web Application**: [BISCUTE](https://github.com/ferdifdi/BISCUTE)
 - **Model**: [ferdifdi/cat-breed-60-classes](https://huggingface.co/ferdifdi/cat-breed-60-classes)
 
