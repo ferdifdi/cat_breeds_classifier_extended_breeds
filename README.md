@@ -10,7 +10,7 @@ A machine learning project for classifying 60 cat breeds using deep learning and
 
 ## 🚀 Quick Start
 
-### Get the Pre-trained Model
+### Get the Model
 
 ```bash
 cd models
