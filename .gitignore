@@ -1,0 +1,41 @@
+# Image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.svg
+*.webp
+*.ico
+*.tiff
+*.tif
+
+# Image directories
+# cat-breeds-dataset/
+# catbreedsrefined-7k/
+# images/
+# preprocessed_new_breeds/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Model files (optional - uncomment if you want to ignore large model files)
+*.safetensors
+*.pt
+*.pth
+*.bin
+*.ckpt
+*.json
