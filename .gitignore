@@ -10,8 +10,8 @@
 *.tiff
 *.tif
 
-# Image directories
-# cat-breeds-dataset/
+# Image Directories
+# Cat-Breeds-Dataset/
 # catbreedsrefined-7k/
 # images/
 # preprocessed_new_breeds/
